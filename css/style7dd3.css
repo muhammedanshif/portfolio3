@@ -563,7 +563,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 .section_header .circle .bg_img{
 	position: absolute;
 	top: 18px;
-	left: 18px;
+	left: 15px;
 	bottom: 18px;
 	right: 18px;
 	display: block;
@@ -596,7 +596,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 .section_header .circle_holder_orange span{
 	position: absolute;
 	top: 30px;
-	right: 15px;
+	right: px;
 	left: 0px;
 	bottom: 0px;
 	background-color: #d3a583;
